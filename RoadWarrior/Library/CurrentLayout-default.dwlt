@@ -114,7 +114,7 @@ MonoBehaviour:
   m_MinSize: {x: 579, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 1
-  controlID: 85
+  controlID: 71
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -139,7 +139,7 @@ MonoBehaviour:
   m_MinSize: {x: 579, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 86
+  controlID: 72
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -164,7 +164,7 @@ MonoBehaviour:
   m_MinSize: {x: 303, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 19
+  controlID: 118
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -189,7 +189,7 @@ MonoBehaviour:
   m_MinSize: {x: 303, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 20
+  controlID: 119
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -421,9 +421,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 96430000
+      m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 0cb2ffff60b3ffff68fbffff003b00005e540000
+      m_ExpandedIDs: 68fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -537,7 +537,7 @@ MonoBehaviour:
   m_Size:
     m_Target: 8.895931
     speed: 2
-    m_Value: 8.512853
+    m_Value: 8.895931
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -718,20 +718,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scenes
+  - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\Joselyn\Desktop\UnityPit\# 2D\RoadWarrior
+  m_LastProjectPath: C:\Users\Joselyn\Documents\GitHub\Unity-2019.3\RoadWarrior
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 7c3f0000
-    m_LastClickedID: 16252
-    m_ExpandedIDs: 00000000283f00002a3f000000ca9a3b
+    m_SelectedIDs: 2c3f0000
+    m_LastClickedID: 16172
+    m_ExpandedIDs: 000000002c3f00002e3f000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -759,7 +759,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 94cb0100
     m_LastClickedID: 117652
-    m_ExpandedIDs: 00000000283f00002a3f0000
+    m_ExpandedIDs: 000000002c3f00002e3f0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -786,7 +786,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000184b0000563b00005e4a00005e3b0000ac3b00007e3b0000763b0000ca3c0000dc4e0000f43c0000da390000123b00007a3c00009c3c0000ca3e0000643b000066570000fa5700003258000006e6000026e900002c0e0100263b0000b0a70000d0390000f03c00009a2f0100f83b0000b03d00006a3c000000000000443d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
