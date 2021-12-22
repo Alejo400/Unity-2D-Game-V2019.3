@@ -6590,6 +6590,11 @@ PrefabInstance:
       propertyPath: m_AnchorMax.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3335214671863850806, guid: 72edea26c9203414eb4bbb3d6ed32a39,
+        type: 3}
+      propertyPath: m_FontData.m_FontSize
+      value: 16
+      objectReference: {fileID: 0}
     - target: {fileID: 3335214672492549638, guid: 72edea26c9203414eb4bbb3d6ed32a39,
         type: 3}
       propertyPath: m_AnchorMax.x
