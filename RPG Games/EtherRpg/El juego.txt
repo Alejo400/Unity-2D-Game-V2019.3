@@ -1,0 +1,28 @@
+La reina de los demonios ha lanzado una maldición el reino. Si en 3 días la reina de ether no entrega su hija a los demonios, 
+toda el agua y tierra del reino se pudrirá y nada podrá crecer o habitar en ella sin perecer.
+
+La reina da la tarea a su caballero mas fuerte. Matar al mal para que la maldición desaparezca. Pero antes, el caballero debe cumplir
+4 misiones:
+
+	1) Matar a 20 criaturas del bosque (lobos x ejemp) y llevar sus colmillos al guardian de la mazmorra.
+
+	Dentro de la mazmorra, existen 3 entradas:
+
+	2) Pasar el primer nivel del calabozo y obtener la GRAN ESPADA SAGRADA, para atacar mas fuerte
+		- La espada será otorgada por un npc respectivo a los moustros q mates. A este npc le daras lo que ganes en el cofre
+		para obtener dicha espada
+
+	3) Pasar el segundo nivel del calabozo y obtener LA ARMADURA IMPENETRABLE, para tener mas defensa
+		- Dar item del cofre a npc para ganar armadura
+
+	4) Pasar el tercer nivel del cabalabozo y obtener la RUNA MAGICA, para poder utilizar magia de ataque
+		- Dar item del cofre a npc para ganar armadura
+	
+Al terminal estas 4 misiones, el caballero le será entregada una llave por el guardian, con la cual podrá entrar al inframundo y luchar
+contra la reina de los demonios.
+
+
+	MISION FINAL: La reina ha sido derrotada. Pero el poderoso rey demonio ha entrado al castillo y raptado a la princesa. Deberas
+	encontrarlo, derrotarlo y salvar a la princesa. La reina te obsequia una magia poderosa con la que podras dañar al rey demonio
+
+		------------------------------------> OJO <-----------------------------------------------------

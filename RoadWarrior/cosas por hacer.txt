@@ -1,0 +1,14 @@
+0) Limpiar, corregir y documentar código
+
+1) Corregir bugs de suelo:
+	- Colocar más collider en las puntas
+	- arreglar bug cuando caminamos y el muñeco se pega entre dos plataformas
+
+2) Efectos de sonido
+	- Al morir
+
+3) Agregar dont destroy on load
+
+4) Agregar victoria del juego
+
+5) Instrucciones mediante boton, al iniciar juego

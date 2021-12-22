@@ -1,0 +1,18 @@
+* Limpiar, documentar y corregir código
+
+* El enemigo ve al contrario del player cuando se encuentran por primera vez
+
+* Efecto al echar poción
+
+* Limites de la camara en escenario del boss
+
+* Magia de rapidez con un círculo debajo
+
+* El boss hace daño de area cada cierto tiempo
+
+* Audio
+
+* Menu
+
+	- Menu de start game y End Game
+	- Colocar boton con instrucciones en el start game

@@ -1,0 +1,806 @@
+fileFormatVersion: 2
+guid: 8a9d0e64067b91145848eb0c82000dbc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4475338924196081925
+    second: Reina ether_0
+  - first:
+      213: 3160029368531331696
+    second: Reina ether_1
+  - first:
+      213: -6700175494227595327
+    second: Reina ether_2
+  - first:
+      213: -2684193129118824278
+    second: Reina ether_3
+  - first:
+      213: -7967906579875291143
+    second: Reina ether_4
+  - first:
+      213: 3280223734783116072
+    second: Reina ether_5
+  - first:
+      213: -8136241701998091241
+    second: Reina ether_6
+  - first:
+      213: -3366691327611557925
+    second: Reina ether_7
+  - first:
+      213: -8211242336617468927
+    second: Reina ether_8
+  - first:
+      213: -4654566540548639160
+    second: Reina ether_9
+  - first:
+      213: 8757228552230281272
+    second: Reina ether_10
+  - first:
+      213: 8878804112574217694
+    second: Reina ether_11
+  - first:
+      213: 229529097539679558
+    second: Reina ether_12
+  - first:
+      213: -8756236595172134243
+    second: Reina ether_13
+  - first:
+      213: 3726997285339889582
+    second: Reina ether_14
+  - first:
+      213: -341435516646764197
+    second: Reina ether_15
+  - first:
+      213: 9113412857115345043
+    second: Reina ether_16
+  - first:
+      213: 1551127626709658821
+    second: Reina ether_17
+  - first:
+      213: 962966305829290431
+    second: Reina ether_18
+  - first:
+      213: 7246564358440099193
+    second: Reina ether_19
+  - first:
+      213: -5275678867429567294
+    second: Reina ether_20
+  - first:
+      213: 1472803982206476252
+    second: Reina ether_21
+  - first:
+      213: -1649841679198194187
+    second: Reina ether_22
+  - first:
+      213: -644995678742456626
+    second: Reina ether_23
+  - first:
+      213: 8943579041284681278
+    second: Reina ether_24
+  - first:
+      213: -1173439663616039622
+    second: Reina ether_25
+  - first:
+      213: 6719693303119987703
+    second: Reina ether_26
+  - first:
+      213: -8161961434135642495
+    second: Reina ether_27
+  - first:
+      213: -2911583366645108808
+    second: Reina ether_28
+  - first:
+      213: -6484372960349296023
+    second: Reina ether_29
+  - first:
+      213: -2964363831487521124
+    second: Reina ether_30
+  - first:
+      213: 7129045106968934900
+    second: Reina ether_31
+  - first:
+      213: -3585129464992511621
+    second: Reina ether_32
+  - first:
+      213: 4807428086153799473
+    second: Reina ether_33
+  - first:
+      213: 2901111614853408764
+    second: Reina ether_34
+  - first:
+      213: 2310340206187460974
+    second: Reina ether_35
+  - first:
+      213: -1085660357900166184
+    second: Reina ether_36
+  - first:
+      213: -6273068099709847105
+    second: Reina ether_37
+  - first:
+      213: -5421470696903360475
+    second: Reina ether_38
+  - first:
+      213: 3712013419331554747
+    second: Reina ether_39
+  - first:
+      213: -1836306450764816469
+    second: Reina ether_40
+  - first:
+      213: 8312247256183333134
+    second: Reina ether_41
+  - first:
+      213: 4131659152361238683
+    second: Reina ether_42
+  - first:
+      213: -9117938201842259281
+    second: Reina ether_43
+  - first:
+      213: 7960891453106564513
+    second: Reina ether_44
+  - first:
+      213: -4264788797165058976
+    second: Reina ether_45
+  - first:
+      213: 8879948523697680191
+    second: Reina ether_46
+  - first:
+      213: -4805059672686700292
+    second: Reina ether_47
+  - first:
+      213: 1685088703616628360
+    second: Reina ether_48
+  - first:
+      213: -1731524082382317861
+    second: Reina ether_49
+  - first:
+      213: 3878010975240201634
+    second: Reina ether_50
+  - first:
+      213: 7754541131436533215
+    second: Reina ether_51
+  - first:
+      213: -7071344041118539840
+    second: Reina ether_52
+  - first:
+      213: 2424145870976834710
+    second: Reina ether_53
+  - first:
+      213: -4412373336949859061
+    second: Reina ether_54
+  - first:
+      213: 7599391553694611378
+    second: Reina ether_55
+  - first:
+      213: -3948510222426218395
+    second: Reina ether_56
+  - first:
+      213: -3335584827172004982
+    second: Reina ether_57
+  - first:
+      213: -2283792601448418853
+    second: Reina ether_58
+  - first:
+      213: 6475907385152166285
+    second: Reina ether_59
+  - first:
+      213: -4230095748434822540
+    second: Reina ether_60
+  - first:
+      213: -5323985052875075917
+    second: Reina ether_61
+  - first:
+      213: -9143374433099228289
+    second: Reina ether_62
+  - first:
+      213: -8374478020278862982
+    second: Reina ether_63
+  - first:
+      213: 7468622953777913996
+    second: Reina ether_64
+  - first:
+      213: 2690974975451360428
+    second: Reina ether_65
+  - first:
+      213: -3016269350297824387
+    second: Reina ether_66
+  - first:
+      213: -5208603822863331245
+    second: Reina ether_67
+  - first:
+      213: 3039851997956035457
+    second: Reina ether_68
+  - first:
+      213: -1013801149610136656
+    second: Reina ether_69
+  - first:
+      213: 2648294164769676549
+    second: Reina ether_70
+  - first:
+      213: 8303659940586083900
+    second: Reina ether_71
+  - first:
+      213: -8102380704486728578
+    second: Reina ether_72
+  - first:
+      213: -3300783288912078795
+    second: Reina ether_73
+  - first:
+      213: 2675285310914548841
+    second: Reina ether_74
+  - first:
+      213: -1575047001993303021
+    second: Reina ether_75
+  - first:
+      213: -5205006580438528000
+    second: Reina ether_76
+  - first:
+      213: 2409858254774622192
+    second: Reina ether_77
+  - first:
+      213: 2408631474001832408
+    second: Reina ether_78
+  - first:
+      213: 8959617668954355696
+    second: Reina ether_79
+  - first:
+      213: 4395420745565381114
+    second: Reina ether_80
+  - first:
+      213: 7953417610039376694
+    second: Reina ether_81
+  - first:
+      213: 135933290864564066
+    second: Reina ether_82
+  - first:
+      213: 5587493385170471813
+    second: Reina ether_83
+  - first:
+      213: 1103544219103519193
+    second: Reina ether_84
+  - first:
+      213: 3760695963884355912
+    second: Reina ether_85
+  - first:
+      213: 8419506194981469285
+    second: Reina ether_86
+  - first:
+      213: -4433113346885554299
+    second: Reina ether_87
+  - first:
+      213: -6890191567672715522
+    second: Reina ether_88
+  - first:
+      213: -5976439043519920345
+    second: Reina ether_89
+  - first:
+      213: -3903921502331830235
+    second: Reina ether_90
+  - first:
+      213: 567923396850381297
+    second: Reina ether_91
+  - first:
+      213: -345273997456492861
+    second: Reina ether_92
+  - first:
+      213: 7144430676553180223
+    second: Reina ether_93
+  - first:
+      213: -7972495550459777959
+    second: Reina ether_94
+  - first:
+      213: -6612775589189141782
+    second: Reina ether_95
+  - first:
+      213: -9182422986645589545
+    second: Reina ether_96
+  - first:
+      213: 2835649440447572994
+    second: Reina ether_97
+  - first:
+      213: -4563929724793569790
+    second: Reina ether_98
+  - first:
+      213: 5771162517934885216
+    second: Reina ether_99
+  - first:
+      213: 1909794804077142216
+    second: Reina ether_100
+  - first:
+      213: 3088378778619027812
+    second: Reina ether_101
+  - first:
+      213: 1431643922143769620
+    second: Reina ether_102
+  - first:
+      213: -6475068731400694103
+    second: Reina ether_103
+  - first:
+      213: 6377119643056124207
+    second: Reina ether_104
+  - first:
+      213: -2019302514375103401
+    second: Reina ether_105
+  - first:
+      213: 275500192860307362
+    second: Reina ether_106
+  - first:
+      213: -3768906837411985835
+    second: Reina ether_107
+  - first:
+      213: -1643889109791414402
+    second: Reina ether_108
+  - first:
+      213: -712473623636947398
+    second: Reina ether_109
+  - first:
+      213: 7456412310525615531
+    second: Reina ether_110
+  - first:
+      213: -2729161768079806467
+    second: Reina ether_111
+  - first:
+      213: -2707061173703099820
+    second: Reina ether_112
+  - first:
+      213: -7035435814364646277
+    second: Reina ether_113
+  - first:
+      213: 8850048390410060292
+    second: Reina ether_114
+  - first:
+      213: -5163823848414572908
+    second: Reina ether_115
+  - first:
+      213: -7945175155420693445
+    second: Reina ether_116
+  - first:
+      213: -4694578431139968924
+    second: Reina ether_117
+  - first:
+      213: 3302431737029466011
+    second: Reina ether_118
+  - first:
+      213: 4953522122250806755
+    second: Reina ether_119
+  - first:
+      213: -5866582571563229829
+    second: Reina ether_120
+  - first:
+      213: -5473755514405483720
+    second: Reina ether_121
+  - first:
+      213: -8797035675300987551
+    second: Reina ether_122
+  - first:
+      213: -2284640871009161890
+    second: Reina ether_123
+  - first:
+      213: -3293749537877657860
+    second: Reina ether_124
+  - first:
+      213: -26303120626750267
+    second: Reina ether_125
+  - first:
+      213: -5143067607854684470
+    second: Reina ether_126
+  - first:
+      213: 8036107195292162933
+    second: Reina ether_127
+  - first:
+      213: 8237348714005763009
+    second: Reina ether_128
+  - first:
+      213: -3597880748276901274
+    second: Reina ether_129
+  - first:
+      213: -497937655583076272
+    second: Reina ether_130
+  - first:
+      213: 5708441348516749142
+    second: Reina ether_131
+  - first:
+      213: -6722400583336619589
+    second: Reina ether_132
+  - first:
+      213: -2938449557590208968
+    second: Reina ether_133
+  - first:
+      213: 8439981489406518471
+    second: Reina ether_134
+  - first:
+      213: 376393147247788180
+    second: Reina ether_135
+  - first:
+      213: -3911987360371152569
+    second: Reina ether_136
+  - first:
+      213: 2304580087679792643
+    second: Reina ether_137
+  - first:
+      213: 3096935005428643059
+    second: Reina ether_138
+  - first:
+      213: 1195205054132961882
+    second: Reina ether_139
+  - first:
+      213: -3235493793526242501
+    second: Reina ether_140
+  - first:
+      213: 5748286548403957846
+    second: Reina ether_141
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Reina ether_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501bf2a4a099b1e30800000000000000
+      internalID: 4475338924196081925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reina ether_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07aac17d7fdaadb20800000000000000
+      internalID: 3160029368531331696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reina ether_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf69c513e13403a0800000000000000
+      internalID: -6700175494227595327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reina ether_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8045e0294dfbad0800000000000000
+      internalID: -2684193129118824278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reina ether_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff190f6e2f4c6190800000000000000
+      internalID: -7967906579875291143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reina ether_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8238d8f7b12b58d20800000000000000
+      internalID: 3280223734783116072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reina ether_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7142fa99743461f80800000000000000
+      internalID: -8136241701998091241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reina ether_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd72355331c1741d0800000000000000
+      internalID: -3366691327611557925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reina ether_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c6441999ecb0e80800000000000000
+      internalID: -8211242336617468927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reina ether_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846fd2f6468a76fb0800000000000000
+      internalID: -4654566540548639160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reina ether_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830289078fce78970800000000000000
+      internalID: 8757228552230281272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reina ether_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd73486c49d73b70800000000000000
+      internalID: 8878804112574217694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
